@@ -1,7 +1,7 @@
-id=MIUI11LIVEWALLPACK
-name=MIUI 11 Live Wallpapers Pack! 
-version=V1
-versionCode=1
+id=MIUI11LW
+name=MIUI 11 Live Wallpaper Pack!
+version=1.0
+versionCode=10
 author=Venky
-description=Get MIUI 11 official Live Wallpapers for any device. (works on miui as well)
-minMagisk=20200
+description=Get MIUI 11 official Live Wallpapers for any device.
+support=https://github.com/venky-parik/miuilivewallpaper or https://t.me/ModuleMagic
