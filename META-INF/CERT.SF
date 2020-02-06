@@ -1,0 +1,46 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 3g1SE31pDHOdsoh2H7wX00w4tXY=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: system/app/MIUI GREY/MIUI-GREY.apk
+SHA1-Digest: NFeNHpProgeJhAQ2zKRKby5dfyA=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: ef4lD1hsmN+fD6KnkOkdiUmFgJc=
+
+Name: system/app/MIUI ORANGE/MIUI-ORANGE.apk
+SHA1-Digest: yMHalPZ1DPOWt1sOED4uuQTeNXo=
+
+Name: system/app/MIUI ABSTRACT/MIUI-ABSTRACT.apk
+SHA1-Digest: clKHlWEaAaK16McRrzr7o+nAJA4=
+
+Name: system/app/MIUI DARKBLUE/MIUI-DARKBLUE.apk
+SHA1-Digest: lsHGoEsAMcATPDtRWbLLj15ntSk=
+
+Name: system/app/MIUI PURPLE/MIUI-PURPLE.apk
+SHA1-Digest: PlUHDIavynZsA6ayBDjNfUhwRoE=
+
+Name: config.sh
+SHA1-Digest: /9apr4L5uOuKe5+wZeM7+rp0JiE=
+
+Name: README.md
+SHA1-Digest: flaZogQLQf2dMl93MU2LekqSVPk=
+
+Name: system/app/MIUI RED/MIUI-RED.apk
+SHA1-Digest: atA1qBJrNe0MdCp8gEthePt9i7U=
+
+Name: module.prop
+SHA1-Digest: e45IegTIthjn0YZXnMKrS9VBC6k=
+
+Name: system/app/MIUI LIGHTBLUE/MIUI-LIGHTBLUE.apk
+SHA1-Digest: QBWSRrN3s6NSlUMZoTr1CYplk5Q=
+
+Name: system/app/MIUI LIVEWALL1/MIUI-LIVEWALL-1.apk
+SHA1-Digest: bfi974k7EtDazMsPk3CmZj/l5FU=
+
+Name: system/app/MIUI BLUE/MIUI-BLUE.apk
+SHA1-Digest: ez2qAxyLNHj0t7XAQlhGGj249Io=
+
